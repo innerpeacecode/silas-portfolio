@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Silas Portfolio",
+    siteUrl: "https://silasportfoliomain66551.gatsbyjs.io/"
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
