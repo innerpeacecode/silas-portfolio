@@ -4,34 +4,30 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby minimal starter site with Feature-Flag toggle
 </h1>
 
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+   Setup an example Gatsby site using the instructions in the docs
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+    - [Documentation](https://www.gatsbyjs.com/docs/tutorial/part-1/)
 
-2.  **Start developing.**
+2.  **Integrate Launch Darkly React SDK.**
 
-    Navigate into your new site’s directory and start it up.
+    Signup for a free Launch Darkly account, and follow the instructions in the Quickstart guide.
+    
+    - [Quickstart](https://app.launchdarkly.com/default/production/quickstart)
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
 
-3.  **Open the code and start customizing!**
+3.  **Deploy your site in Gatsby Cloud**
 
-    Your site is now running at http://localhost:8000!
+    Integrate your Github project to Gatsby Cloud. Build the project. 
+    Use the public URL generated to access the website.
+    silasportfoliomain66551.gatsbyjs.io
 
-    Edit `src/pages/index.js` to see your site update in real-time!
 
 4.  **Learn more**
 
