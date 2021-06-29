@@ -11,7 +11,7 @@
 
 1.  **Create a Gatsby site.**
 
-   Setup an example Gatsby site using the instructions in the docs
+    Setup an example Gatsby site using the instructions in the docs
 
     - [Documentation](https://www.gatsbyjs.com/docs/tutorial/part-1/)
 
