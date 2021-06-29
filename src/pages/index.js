@@ -198,8 +198,8 @@ export default withLDProvider({
   clientSideID: '60d9ba082e18760d739e5ee0',
   user: {
       "key": "user_key",
-      "name": "User Name",
-      "email": "User@email.com"
+      "name": "Silas Sundar",
+      "email": "sundars@tctd.ie"
   }
 })(index);
 
